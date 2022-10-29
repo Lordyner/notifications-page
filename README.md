@@ -41,7 +41,7 @@ Users should be able to:
 ## My process
  
  I started by studying the desktop and mobile layouts with the different states. Then I created my css variables with the fonts and colours.
- After that I typed all the html and content and started to work on the style. I didn't face difficulties, the layout is pretty simple and with it works pretty well with flexbox.
+ After that I typed all the html and content and started to work on the style. I started with the main container and then created a notification-container. I didn't face any difficulties, the layout was pretty simple and straightforward.
 
 
 ### Built with
