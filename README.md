@@ -31,12 +31,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./notification-page.png)
+![Desktop layout](./notification-page.png)
+![Mobile layout](./notification-page-mobile.png)
 
 
 ### Links
 
-- Solution URL: [https://github.com/Lordyner/notifications-page](https://your-solution-url.com)
+- Solution URL: [https://github.com/Lordyner/notifications-page]
+- Challenge specs: [https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
 
 ## My process
  
