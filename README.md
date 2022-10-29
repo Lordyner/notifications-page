@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Lordyner/notifications-page]
+- Solution URL: [https://lordyner.github.io/notifications-page/]
 - Challenge specs: [https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC)
 
 ## My process
